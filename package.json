@@ -9,7 +9,7 @@
     "seed": "node seeds/seed.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "johnweaver1",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",

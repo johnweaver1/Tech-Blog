@@ -18,7 +18,7 @@ const users = [
 
 const posts = [
   {
-      title: "I shouldn't ahve skipped class",
+      title: "I shouldn't have skipped class",
       description: "Eh, but I'm fine",
       date_created: "1/22/2022",
       user_id: 1
